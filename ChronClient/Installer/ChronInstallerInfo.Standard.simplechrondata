@@ -1,0 +1,8 @@
+null #
+
+(The HASH (#) ends the data stream)
+
+'' : the installer will create an error
+'null' : the installer will cancel the installation
+'outdated' : the installer will notify the user that the client is outdated
+'[url]' : the installer will download chron from there
