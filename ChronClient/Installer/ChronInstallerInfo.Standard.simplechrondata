@@ -1,4 +1,4 @@
-_ ; 4.0.0.0 ; https://raw.githubusercontent.com/ChronesDevelopers/DATA/main/ChronClient/Installer/ChronInstallerInfo.Lite.simplechrondata #
+not_available ; 4.0.0.0 ; https://raw.githubusercontent.com/ChronesDevelopers/DATA/main/ChronClient/Installer/ChronInstallerInfo.Lite.simplechrondata #
 
 (The HASH (#) ends the data stream)
 
@@ -7,4 +7,5 @@ _ ; 4.0.0.0 ; https://raw.githubusercontent.com/ChronesDevelopers/DATA/main/Chro
 'null' : the installer will cancel the installation
 'outdated' : the installer will notify the user that the client is outdated
 'outdated_warning' : the installer will download chron but will notify the user that chron is outdated
+'not_available' : the installer will cancel the installation
 '[url]' : the installer will download chron from there
