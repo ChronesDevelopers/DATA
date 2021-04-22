@@ -1,7 +1,7 @@
 {
   "Version" : "1.0.0.0",
   "ReleaseName" : "Quadrix v1",
-  "DownloadUrl" : null,
+  "DownloadUrl" : "https://raw.githubusercontent.com/ChronesDevelopers/DATA/main/Quadrix/AlphaLauncher/v0.1/Data.json",
   "Devs" : [
     "CXCubeHD",
     "Quadr"
