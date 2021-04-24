@@ -8,5 +8,5 @@
     "Quadr"
   ],
   "LatestInjectorVersion" : "1.1.0.0",
-  "OldVersionCanNotBeUsed" : false
+  "OldVersionCanNotBeUsed" : true
 }
