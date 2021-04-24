@@ -2,7 +2,7 @@
   "Version" : "1.0.0.0",
   "MinecraftVersion" : "1.16.220.0",
   "ReleaseName" : "Quadrix v1",
-  "DownloadUrl" : "https://raw.githubusercontent.com/ChronesDevelopers/DATA/main/Quadrix/AlphaLauncher/v0.1/Data.json",
+  "DownloadUrl" : null,
   "Devs" : [
     "CXCubeHD",
     "Quadr"
