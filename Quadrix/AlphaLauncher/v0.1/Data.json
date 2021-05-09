@@ -1,7 +1,7 @@
 {
   "Version" : "1.0.0.0",
   "MinecraftVersion" : "1.16.220.0",
-  "MinecraftPackageVersion" : "1.16.22101.0",
+  "MinecraftPackageVersion" : "1.16.22001.0",
   "ReleaseName" : "Quadrix TestDll",
   "DownloadUrl" : "https://github.com/ChronesDevelopers/DATA/blob/main/Quadrix/Realeases/0.1/Core.dll?raw=true",
   "Devs" : [
