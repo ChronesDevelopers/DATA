@@ -1,9 +1,9 @@
 {
-  "Version" : "1.1.3.1",
-  "MinecraftVersion" : "1.16.221.0",
-  "MinecraftPackageVersion" : "1.16.22101.0",
-  "ReleaseName" : "Quadrix TestDll",
-  "DownloadUrl" : "https://github.com/ChronesDevelopers/DATA/blob/main/Quadrix/Releases/0.3/Core.dll?raw=true",
+  "Version" : "1.9.0.0",
+  "MinecraftVersion" : "1.17.0.0",
+  "MinecraftPackageVersion" : "1.17.2.0",
+  "ReleaseName" : "Quadrix",
+  "DownloadUrl" : "https://github.com/ChronesDevelopers/DATA/blob/main/Quadrix/Releases/0.4/Core.dll?raw=true",
   "Devs" : [
     "CXCubeHD",
     "Quadr"
