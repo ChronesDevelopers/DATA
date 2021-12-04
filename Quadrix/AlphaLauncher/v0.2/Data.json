@@ -1,10 +1,10 @@
   
 {
   "Version" : "1.9.8.0",
-  "MinecraftVersion" : "1.17.41.0",
-  "MinecraftPackageVersion" : "1.17.4101.0",
+  "MinecraftVersion" : "1.18.0.0",
+  "MinecraftPackageVersion" : "1.18.2.0",
   "ReleaseName" : "Quadrix",
-  "DownloadUrl" : "https://github.com/ChronesDevelopers/DATA/blob/main/Quadrix/Releases/0.9/Core.dll?raw=true",
+  "DownloadUrl" : "https://github.com/ChronesDevelopers/DATA/blob/main/Quadrix/Releases/0.9.1/Core.dll?raw=true",
   "Devs" : [
     "CXCubeHD",
     "Quadr"
