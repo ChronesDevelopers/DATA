@@ -1,0 +1,14 @@
+  
+{
+  "Version" : "2.0.0.0",
+  "MinecraftVersion" : "1.18.2.0",
+  "MinecraftPackageVersion" : "1.18.203.0",
+  "ReleaseName" : "Quadrix",
+  "DownloadUrl" : "https://github.com/ChronesDevelopers/DATA/blob/main/Quadrix/Releases/2.0/Quadrix.dll?raw=true",
+  "Devs" : [
+    "CXCubeHD",
+    "Quadr"
+  ],
+  "LatestInjectorVersion" : "1.2.0.0",
+  "OldVersionCanNotBeUsed" : false
+}
